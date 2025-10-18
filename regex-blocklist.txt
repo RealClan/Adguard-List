@@ -16,7 +16,7 @@
 /(^|\.)scorecardresearch\.com$/
 /(^|\.)joyn\.de\.edgekey\.net$/
 
-# YouTube / Netflix / RTL+ / etc.
+# YouTube / RTL+ / etc.
 /(^|\.)ads?\./
 /(^|\.)adserver\./
 /(^|\.)advertising\./
@@ -43,10 +43,6 @@
 /(^|\.)crashlytics\.com$/
 /(^|\.)fbcdn\.net$/
 /(^|\.)facebook\.com$/
-/(^|\.)analytics\.netflix\.com$/
-/(^|\.)secure\.netflix\.com$/
-/(^|\.)nflxext\.com$/
-/(^|\.)nflxvideo\.net$/
 
 # Prime Video
 /(^|\.)ads?\./
